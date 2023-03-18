@@ -1,2 +1,2 @@
 # RomanNumber
- Roman number to digital numbers converter and vice versa.
+ Roman number to intergers converter and vice versa.
